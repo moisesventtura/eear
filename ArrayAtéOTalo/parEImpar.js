@@ -9,7 +9,7 @@ function vetor(a,b){
             k++
         }
     }
-        console.log("A soma dos números ímpares é: " + soma)
+        console.log("A soma do números ímpares é: " + soma)
         return par
 }
 
