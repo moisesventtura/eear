@@ -5,8 +5,8 @@ function imparesN(n){
     for(var i = 0 ; i < n.length ; i++){
         if(n[i] %  2 != 0){
             impar[k] = n[i]
-            k++
             soma += n[i] // SOMANDO OS IMPARES QUE ACHOU
+            k++
         }    
     }
     console.log(soma)    
